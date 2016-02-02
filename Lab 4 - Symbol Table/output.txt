@@ -1,0 +1,10 @@
+Identifier 	m	int	Static	Global
+Constant	k	int	Static	Global
+Identifier 	m	int	Static	Global
+Identifier 	a	int	Static	Global
+Identifier 	b	char	Static	Global
+Identifier 	*f	int	Dynamic	Global
+Constant	c	float	Static	Global
+Identifier 	x	int	Static	Global
+Identifier 	y	double	Static	Global
+Identifier 	f	int	Static	Global

@@ -1,0 +1,7 @@
+Z=f^g
+Y=c/d
+X=b*Y
+W=X+e
+V=a-W
+U=V-Z
+w=U

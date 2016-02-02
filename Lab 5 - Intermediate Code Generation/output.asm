@@ -1,0 +1,21 @@
+MOV R0,f
+SUB R0,g
+
+MOV R1,c
+DIV R1,d
+
+MOV R2,b
+MUL R2,Y
+
+MOV R3,X
+ADD R3,e
+
+MOV R4,a
+SUB R4,W
+
+MOV R5,V
+SUB R5,Z
+
+MOV R6,U
+SUB R6,Z
+

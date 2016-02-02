@@ -1,0 +1,6 @@
+if(i==j)
+for(i=1;i<=8;i=i++)
+for(i=t;i<=7;i=i+2)
+while(i!=8)
+if(i==s)
+j=j+1
